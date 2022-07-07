@@ -80,3 +80,5 @@ Time     |  APR
 
 #### **1GB AES Pattern Search PoW** 
 Pattern Search involves filling up RAM with pseudo-random data, and then conducting a search for the start location of an AES encrypted data pattern in that data. Pattern Search is an evolution of the ProtoShares Momentum PoW, first used in MemoryCoin and later modified for use in CryptoNight(Monero,Bytecoin), Ethash(Ethereum).  CPU/GPU friendly.
+
+https://mega.nz/file/MtxCFQbA#CVldNGXJpNFzPTMhIDDuOor6AacY-BIiQqzHtLxoo4Q  
